@@ -104,6 +104,6 @@ Confira meus projetos, estudos e experimentos:
 
 **E-mail:** [pedroleles05@gmail.com](mailto:pedroleles05@gmail.com)
 
-**LinkedIn:** [linkedin.com](https://www.linkedin.com)
+**LinkedIn:** [linkedin.com](www.linkedin.com/in/pedro-leles-b8a67b373)
 
 **GitHub:** [github.com/PedroLeles05](https://github.com/PedroLeles05)
