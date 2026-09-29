@@ -1,50 +1,114 @@
-# Olá, sou o Pedro Leles! 👋
+# Pedro Leles
 
-🎓 **Estudante de Sistemas de Informação (6º Período - Unilasalle RJ)**  
-💻 **Desenvolvedor Back-End & Entusiasta de Análise de Dados e Automação**  
-📍 **Rio de Janeiro / Maricá - RJ, Brasil**
+**Estudante de Sistemas de Informação · Desenvolvedor Back-End · Automação & Dados**
 
-🚀 Sobre Mim
+📍 Rio de Janeiro / Maricá — RJ, Brasil
+🎓 Sistemas de Informação — 6º período | Unilasalle-RJ
 
-    🔍 Tenho 1 ano de experiência em Suporte de TI, onde desenvolvi uma visão analítica apurada para análise de logs, investigação de causa-raiz e mapeamento de processos.
+---
 
-    ⚙️ Atualmente focado na construção e manutenção de APIs RESTful, aplicações web funcionais e scripts de automação/análise de dados em Python.
+## Sobre mim
 
-    🛠️ Adoro transformar regras de negócio complexas em código limpo, além de construir dashboards e fluxos que otimizam tarefas manuais.
+Sou estudante de **Sistemas de Informação** com experiência em **Suporte de TI** e foco atual em desenvolvimento **Back-End**, automação e análise de dados.
 
-    📚 Em constante aprendizagem e a aprofundar conhecimentos em Java (Spring Boot), Python, SQL e arquitetura de software.
+Tenho 1 ano de experiência em suporte técnico, onde desenvolvi uma visão analítica voltada para **análise de logs, investigação de causa-raiz e mapeamento de processos**.
 
-🧰 Stack & Tecnologias
+Atualmente, concentro meus estudos e projetos em:
 
-Linguagens & Frameworks:
+* Desenvolvimento de **APIs RESTful**
+* Desenvolvimento de aplicações web
+* **JavaScript, Node.js e Express**
+* **Python** para automação e análise de dados
+* **SQL e bancos de dados**
+* Git e GitHub
+* Estruturação e organização de aplicações
 
-Bancos de Dados & Análise:
+Gosto de transformar regras de negócio em soluções **simples, organizadas e funcionais**, buscando utilizar tecnologia para automatizar processos e resolver problemas reais.
 
-Ferramentas & Boas Práticas:
-📌 Projetos em Destaque (Em Produção)
-🗓️ Projeto Agenda — SaaS & API REST
+---
 
-    Laboratório Prático de Desenvolvimento & Arquitetura
+## Stack & Tecnologias
 
-    API RESTful e aplicação web focada no agendamento e gestão de horários.
+### Linguagens
 
-    Validação automática de conflitos em banco de dados e regras de negócio ativas.
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square\&logo=javascript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square\&logo=c\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square\&logo=postgresql\&logoColor=white)
 
-    Techs: Node.js / JavaScript, HTML/CSS, Git, Deploy no Render.
+### Back-End & Web
 
-💄 Plataforma Web Flávia Rob
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square\&logo=css3\&logoColor=white)
 
-    Projeto Comercial Entregue para Cliente Real
+* APIs RESTful
+* Node.js
+* Express.js
+* JavaScript
+* Desenvolvimento Web
+* Integração com bancos de dados
 
-    Site profissional desenvolvido com foco em performance, navegação intuitiva e boa experiência do utilizador.
+### Banco de Dados
 
-    Techs: Web Development, Git, Deploy em ambiente de produção.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square\&logo=postgresql\&logoColor=white)
 
-📊 Estatísticas do GitHub
-📫 Vamos Conectar?
+* SQL
+* PostgreSQL
+* Relacionamentos entre tabelas
+* Consultas e manipulação de dados
 
-    E-mail: pedroleles05@gmail.com
+### Ferramentas
 
-    LinkedIn: www.linkedin.com/in/pedro-leles-b8a67b373
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)
 
-    GitHub: github.com/PedroLeles05
+* Git & GitHub
+* Deploy
+* Automação de processos
+* Análise de dados
+* Boas práticas de desenvolvimento
+
+---
+
+## Projetos em Destaque
+
+### [Projeto Agenda — SaaS & API REST](https://agenda-web-v939.onrender.com/)
+
+Aplicação web voltada para **agendamento e gerenciamento de horários**, desenvolvida com uma API REST e regras de negócio para controle dos agendamentos.
+
+**Tecnologias:** Node.js · Express · JavaScript · HTML · CSS · SQL · Git · Render
+
+---
+
+### [Plataforma Web — Flávia Rob](https://flavia-rob-makeup.onrender.com)
+
+Website profissional desenvolvido para **cliente real**, com foco em apresentação da marca, experiência do usuário e disponibilização em ambiente de produção.
+
+**Tecnologias:** HTML · CSS · JavaScript · Git · Web Development · Render
+
+---
+
+## GitHub
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PedroLeles05&show_icons=true&hide_border=true&theme=transparent"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeles05&layout=compact&hide_border=true&theme=transparent"
+    height="160"
+  />
+</p>
+
+---
+
+## Contato
+
+**E-mail:** [pedroleles05@gmail.com](mailto:pedroleles05@gmail.com)
+
+**LinkedIn:** [linkedin.com](https://www.linkedin.com)
+
+**GitHub:** [github.com/PedroLeles05](https://github.com/PedroLeles05)
